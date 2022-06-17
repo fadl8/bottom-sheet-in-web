@@ -1,4 +1,3 @@
-// Copyright (c) 2022 Ivan Teplov
 
 const $ = document.querySelector.bind(document)
 
